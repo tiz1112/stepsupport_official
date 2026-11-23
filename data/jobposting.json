@@ -1,0 +1,808 @@
+[
+ {
+  "page": "JobHoikuLead.dc.html",
+  "jsonld": {
+   "@context": "https://schema.org/",
+   "@type": "JobPosting",
+   "title": "保育士(主任経験者)",
+   "description": "<p>保育の現場でチームをまとめてきた経験を、療育の中核で活かす仕事です。月間プログラムの立案、職員の指導、ケース会議の進行、保護者との面談を担います。保育士資格と、主任またはリーダーの経験3年以上が必要です。完全週休2日(日曜＋シフトで1日)、年間休日110〜115日。残業は月平均10時間未満。社会保険完備、退職金制度、通勤手当(月15,000円まで)。</p>",
+   "datePosted": "[公開日 例 2026-12-01]",
+   "employmentType": [
+    "FULL_TIME"
+   ],
+   "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社桜花(ステップサポート)",
+    "sameAs": "https://try-support.com/"
+   },
+   "jobLocation": [
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "澄池町21番22号 サクラテラス101",
+      "addressLocality": "名古屋市中川区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "一番三丁目1番7号 エースビル1F",
+      "addressLocality": "名古屋市熱田区",
+      "addressRegion": "愛知県",
+      "postalCode": "456-0053",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "元八事",
+      "addressLocality": "名古屋市天白区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    }
+   ],
+   "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+     "@type": "QuantitativeValue",
+     "unitText": "MONTH",
+     "minValue": 305000,
+     "maxValue": 400000
+    }
+   },
+   "directApply": true
+  }
+ },
+ {
+  "page": "Job.dc.html",
+  "jsonld": {
+   "@context": "https://schema.org/",
+   "@type": "JobPosting",
+   "title": "保育士(担任経験者)",
+   "description": "<p>活動の企画と実施、個別支援計画に沿った支援と記録、保護者への報告、ケース会議への参加を担います。保育士資格と、クラス担任の経験2年以上が必要です。完全週休2日(日曜＋シフトで1日)、年間休日110〜115日。残業は月平均10時間未満。社会保険完備、退職金制度、通勤手当(月15,000円まで)。</p>",
+   "datePosted": "[公開日 例 2026-12-01]",
+   "employmentType": [
+    "FULL_TIME"
+   ],
+   "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社桜花(ステップサポート)",
+    "sameAs": "https://try-support.com/"
+   },
+   "jobLocation": [
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "澄池町21番22号 サクラテラス101",
+      "addressLocality": "名古屋市中川区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "一番三丁目1番7号 エースビル1F",
+      "addressLocality": "名古屋市熱田区",
+      "addressRegion": "愛知県",
+      "postalCode": "456-0053",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "元八事",
+      "addressLocality": "名古屋市天白区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    }
+   ],
+   "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+     "@type": "QuantitativeValue",
+     "unitText": "MONTH",
+     "minValue": 265000,
+     "maxValue": 340000
+    }
+   },
+   "directApply": true
+  }
+ },
+ {
+  "page": "JobHoikuExp.dc.html",
+  "jsonld": {
+   "@context": "https://schema.org/",
+   "@type": "JobPosting",
+   "title": "保育士(実務経験あり・療育未経験可)",
+   "description": "<p>活動の補助と記録、送迎から始め、研修とOJTを経てプログラム担当へ進みます。保育士資格と、保育所・療育施設などでの実務経験(年数不問・ブランク可)が必要です。完全週休2日(日曜＋シフトで1日)、年間休日110〜115日。残業は月平均10時間未満。社会保険完備、退職金制度、通勤手当(月15,000円まで)。</p>",
+   "datePosted": "[公開日 例 2026-12-01]",
+   "employmentType": [
+    "FULL_TIME"
+   ],
+   "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社桜花(ステップサポート)",
+    "sameAs": "https://try-support.com/"
+   },
+   "jobLocation": [
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "澄池町21番22号 サクラテラス101",
+      "addressLocality": "名古屋市中川区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "一番三丁目1番7号 エースビル1F",
+      "addressLocality": "名古屋市熱田区",
+      "addressRegion": "愛知県",
+      "postalCode": "456-0053",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "元八事",
+      "addressLocality": "名古屋市天白区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    }
+   ],
+   "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+     "@type": "QuantitativeValue",
+     "unitText": "MONTH",
+     "minValue": 245000,
+     "maxValue": 300000
+    }
+   },
+   "directApply": true
+  }
+ },
+ {
+  "page": "JobNew.dc.html",
+  "jsonld": {
+   "@context": "https://schema.org/",
+   "@type": "JobPosting",
+   "title": "保育士(新卒)",
+   "description": "<p>入社後3か月の育成ステップで、先輩の隣で療育の視点を学びます。保育士資格(1年以内に取得見込み可)と普通自動車運転免許が必要です。完全週休2日(日曜＋シフトで1日)、年間休日110〜115日。残業は月平均10時間未満。社会保険完備、退職金制度、通勤手当(月15,000円まで)。</p>",
+   "datePosted": "[公開日 例 2026-12-01]",
+   "employmentType": [
+    "FULL_TIME"
+   ],
+   "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社桜花(ステップサポート)",
+    "sameAs": "https://try-support.com/"
+   },
+   "jobLocation": [
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "澄池町21番22号 サクラテラス101",
+      "addressLocality": "名古屋市中川区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "一番三丁目1番7号 エースビル1F",
+      "addressLocality": "名古屋市熱田区",
+      "addressRegion": "愛知県",
+      "postalCode": "456-0053",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "元八事",
+      "addressLocality": "名古屋市天白区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    }
+   ],
+   "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+     "@type": "QuantitativeValue",
+     "unitText": "MONTH",
+     "value": 210000
+    }
+   },
+   "directApply": true
+  }
+ },
+ {
+  "page": "JobOT.dc.html",
+  "jsonld": {
+   "@context": "https://schema.org/",
+   "@type": "JobPosting",
+   "title": "作業療法士",
+   "description": "<p>感覚・運動面のアセスメント、個別支援計画への助言、個別と小集団の支援、職員への助言と研修を担います。作業療法士免許が必要です。小児分野の経験は不問です。完全週休2日(日曜＋シフトで1日)、年間休日110〜115日。残業は月平均10時間未満。社会保険完備、退職金制度、通勤手当(月15,000円まで)。</p>",
+   "datePosted": "[公開日 例 2026-12-01]",
+   "employmentType": [
+    "FULL_TIME"
+   ],
+   "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社桜花(ステップサポート)",
+    "sameAs": "https://try-support.com/"
+   },
+   "jobLocation": [
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "澄池町21番22号 サクラテラス101",
+      "addressLocality": "名古屋市中川区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "一番三丁目1番7号 エースビル1F",
+      "addressLocality": "名古屋市熱田区",
+      "addressRegion": "愛知県",
+      "postalCode": "456-0053",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "元八事",
+      "addressLocality": "名古屋市天白区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    }
+   ],
+   "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+     "@type": "QuantitativeValue",
+     "unitText": "MONTH",
+     "minValue": 265000,
+     "maxValue": 400000
+    }
+   },
+   "directApply": true
+  }
+ },
+ {
+  "page": "JobPT.dc.html",
+  "jsonld": {
+   "@context": "https://schema.org/",
+   "@type": "JobPosting",
+   "title": "理学療法士",
+   "description": "<p>姿勢・運動面のアセスメント、運動プログラムの設計、個別と小集団の支援、職員への助言を担います。理学療法士免許が必要です。小児分野の経験は不問です。完全週休2日(日曜＋シフトで1日)、年間休日110〜115日。残業は月平均10時間未満。社会保険完備、退職金制度、通勤手当(月15,000円まで)。</p>",
+   "datePosted": "[公開日 例 2026-12-01]",
+   "employmentType": [
+    "FULL_TIME"
+   ],
+   "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社桜花(ステップサポート)",
+    "sameAs": "https://try-support.com/"
+   },
+   "jobLocation": [
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "澄池町21番22号 サクラテラス101",
+      "addressLocality": "名古屋市中川区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "一番三丁目1番7号 エースビル1F",
+      "addressLocality": "名古屋市熱田区",
+      "addressRegion": "愛知県",
+      "postalCode": "456-0053",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "元八事",
+      "addressLocality": "名古屋市天白区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    }
+   ],
+   "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+     "@type": "QuantitativeValue",
+     "unitText": "MONTH",
+     "minValue": 265000,
+     "maxValue": 400000
+    }
+   },
+   "directApply": true
+  }
+ },
+ {
+  "page": "JobST.dc.html",
+  "jsonld": {
+   "@context": "https://schema.org/",
+   "@type": "JobPosting",
+   "title": "言語聴覚士",
+   "description": "<p>ことば・コミュニケーション・食べる機能のアセスメント、個別支援、職員と保護者への助言を担います。言語聴覚士免許が必要です。小児分野の経験は不問です。完全週休2日(日曜＋シフトで1日)、年間休日110〜115日。残業は月平均10時間未満。社会保険完備、退職金制度、通勤手当(月15,000円まで)。</p>",
+   "datePosted": "[公開日 例 2026-12-01]",
+   "employmentType": [
+    "FULL_TIME"
+   ],
+   "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社桜花(ステップサポート)",
+    "sameAs": "https://try-support.com/"
+   },
+   "jobLocation": [
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "澄池町21番22号 サクラテラス101",
+      "addressLocality": "名古屋市中川区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "一番三丁目1番7号 エースビル1F",
+      "addressLocality": "名古屋市熱田区",
+      "addressRegion": "愛知県",
+      "postalCode": "456-0053",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "元八事",
+      "addressLocality": "名古屋市天白区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    }
+   ],
+   "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+     "@type": "QuantitativeValue",
+     "unitText": "MONTH",
+     "minValue": 265000,
+     "maxValue": 400000
+    }
+   },
+   "directApply": true
+  }
+ },
+ {
+  "page": "JobCP.dc.html",
+  "jsonld": {
+   "@context": "https://schema.org/",
+   "@type": "JobPosting",
+   "title": "公認心理師・臨床心理士",
+   "description": "<p>発達検査や行動観察によるアセスメント、支援計画への助言、保護者相談、職員への助言を担います。公認心理師(臨床心理士も可)が必要です。完全週休2日(日曜＋シフトで1日)、年間休日110〜115日。残業は月平均10時間未満。社会保険完備、退職金制度、通勤手当(月15,000円まで)。</p>",
+   "datePosted": "[公開日 例 2026-12-01]",
+   "employmentType": [
+    "FULL_TIME"
+   ],
+   "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社桜花(ステップサポート)",
+    "sameAs": "https://try-support.com/"
+   },
+   "jobLocation": [
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "澄池町21番22号 サクラテラス101",
+      "addressLocality": "名古屋市中川区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "一番三丁目1番7号 エースビル1F",
+      "addressLocality": "名古屋市熱田区",
+      "addressRegion": "愛知県",
+      "postalCode": "456-0053",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "元八事",
+      "addressLocality": "名古屋市天白区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    }
+   ],
+   "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+     "@type": "QuantitativeValue",
+     "unitText": "MONTH",
+     "minValue": 265000,
+     "maxValue": 400000
+    }
+   },
+   "directApply": true
+  }
+ },
+ {
+  "page": "JobNewOTPT.dc.html",
+  "jsonld": {
+   "@context": "https://schema.org/",
+   "@type": "JobPosting",
+   "title": "作業療法士・理学療法士(新卒)",
+   "description": "<p>感覚統合を土台にした療育を、多職種のチームで学びます。作業療法士免許または理学療法士免許(1年以内に取得見込み可)が必要です。完全週休2日(日曜＋シフトで1日)、年間休日110〜115日。残業は月平均10時間未満。社会保険完備、退職金制度、通勤手当(月15,000円まで)。</p>",
+   "datePosted": "[公開日 例 2026-12-01]",
+   "employmentType": [
+    "FULL_TIME"
+   ],
+   "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社桜花(ステップサポート)",
+    "sameAs": "https://try-support.com/"
+   },
+   "jobLocation": [
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "澄池町21番22号 サクラテラス101",
+      "addressLocality": "名古屋市中川区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "一番三丁目1番7号 エースビル1F",
+      "addressLocality": "名古屋市熱田区",
+      "addressRegion": "愛知県",
+      "postalCode": "456-0053",
+      "addressCountry": "JP"
+     }
+    },
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "元八事",
+      "addressLocality": "名古屋市天白区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    }
+   ],
+   "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+     "@type": "QuantitativeValue",
+     "unitText": "MONTH",
+     "value": 255000
+    }
+   },
+   "directApply": true
+  }
+ },
+ {
+  "page": "JobHQ.dc.html",
+  "jsonld": {
+   "@context": "https://schema.org/",
+   "@type": "JobPosting",
+   "title": "施設統括(障害児通所事業)",
+   "description": "<p>中川区・熱田区と、2027年7月開所予定の天白区元八事の3施設の運営管理、管理者の育成と評価、収支と稼働の管理、行政対応を担います。管理者または児童発達支援管理責任者の経験3年以上が必要です。完全週休2日(日曜＋シフトで1日)、年間休日110〜115日。残業は月平均10時間未満。社会保険完備、退職金制度、通勤手当(月15,000円まで)。</p>",
+   "datePosted": "[公開日 例 2026-12-01]",
+   "employmentType": [
+    "FULL_TIME"
+   ],
+   "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社桜花(ステップサポート)",
+    "sameAs": "https://try-support.com/"
+   },
+   "jobLocation": [
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "澄池町21番22号 サクラテラス101",
+      "addressLocality": "名古屋市中川区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    }
+   ],
+   "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+     "@type": "QuantitativeValue",
+     "unitText": "MONTH",
+     "minValue": 350000,
+     "maxValue": 450000
+    }
+   },
+   "directApply": true
+  }
+ },
+ {
+  "page": "JobHR.dc.html",
+  "jsonld": {
+   "@context": "https://schema.org/",
+   "@type": "JobPosting",
+   "title": "人事管理職",
+   "description": "<p>採用計画と採用活動、労務管理、評価制度と研修の運用、就業規則の管理を担います。人事・労務の実務経験3年以上が必要です。完全週休2日(土・日・祝日)、年間休日約125日。残業は月平均10時間未満。社会保険完備、退職金制度、通勤手当(月15,000円まで)。</p>",
+   "datePosted": "[公開日 例 2026-12-01]",
+   "employmentType": [
+    "FULL_TIME"
+   ],
+   "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社桜花(ステップサポート)",
+    "sameAs": "https://try-support.com/"
+   },
+   "jobLocation": [
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "澄池町21番22号 サクラテラス101",
+      "addressLocality": "名古屋市中川区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    }
+   ],
+   "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+     "@type": "QuantitativeValue",
+     "unitText": "MONTH",
+     "minValue": 280000,
+     "maxValue": 380000
+    }
+   },
+   "directApply": true
+  }
+ },
+ {
+  "page": "JobAcc.dc.html",
+  "jsonld": {
+   "@context": "https://schema.org/",
+   "@type": "JobPosting",
+   "title": "会計事務(正社員・パート)",
+   "description": "<p>日々の経理、売上と経費の管理、月次決算の補助、国保連への請求事務の補助、給与計算の補助を担います。会計事務の経験(業種不問)が必要です。正社員は月給210,000〜300,000円、パートは時給1,200円以上(週4日以上、1日5時間以上)。</p>",
+   "datePosted": "[公開日 例 2026-12-01]",
+   "employmentType": [
+    "FULL_TIME",
+    "PART_TIME"
+   ],
+   "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社桜花(ステップサポート)",
+    "sameAs": "https://try-support.com/"
+   },
+   "jobLocation": [
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "澄池町21番22号 サクラテラス101",
+      "addressLocality": "名古屋市中川区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    }
+   ],
+   "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+     "@type": "QuantitativeValue",
+     "unitText": "MONTH",
+     "minValue": 210000,
+     "maxValue": 300000
+    }
+   },
+   "directApply": true
+  }
+ },
+ {
+  "page": "JobAudit.dc.html",
+  "jsonld": {
+   "@context": "https://schema.org/",
+   "@type": "JobPosting",
+   "title": "運営管理事務(正社員・パート)",
+   "description": "<p>行政の運営指導に向けて、契約書、計画、記録、勤務表など帳票全般の整合を確認します。事務経験(業種不問)が必要です。正社員は月給210,000〜300,000円、パートは時給1,200円以上(週4日以上、1日5時間以上)。</p>",
+   "datePosted": "[公開日 例 2026-12-01]",
+   "employmentType": [
+    "FULL_TIME",
+    "PART_TIME"
+   ],
+   "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社桜花(ステップサポート)",
+    "sameAs": "https://try-support.com/"
+   },
+   "jobLocation": [
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "澄池町21番22号 サクラテラス101",
+      "addressLocality": "名古屋市中川区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    }
+   ],
+   "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+     "@type": "QuantitativeValue",
+     "unitText": "MONTH",
+     "minValue": 210000,
+     "maxValue": 300000
+    }
+   },
+   "directApply": true
+  }
+ },
+ {
+  "page": "JobSNS.dc.html",
+  "jsonld": {
+   "@context": "https://schema.org/",
+   "@type": "JobPosting",
+   "title": "SNS運用・記事制作スタッフ(正社員・パート)",
+   "description": "<p>児童発達支援・放課後等デイサービスの広報として、Instagram、LINE公式アカウント、サイトの記事で、施設の毎日を保護者とこれから一緒に働く仲間に届けます。子どもと職員の顔は写さずに伝えます。仕事または個人で、InstagramなどのSNSを続けて運用した経験が必要です(福祉の経験は問いません)。正社員は月給220,000〜320,000円、パートは時給1,300円以上(週3日以上、1日5時間以上)。仕事に必要な機材は会社が負担します(何を買うかは相談のうえ会社が決めます)。正社員は、業務の空き時間を自分の制作や仕事に使えます。</p>",
+   "datePosted": "[公開日 例 2026-12-01]",
+   "employmentType": [
+    "FULL_TIME",
+    "PART_TIME"
+   ],
+   "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社桜花(ステップサポート)",
+    "sameAs": "https://try-support.com/"
+   },
+   "jobLocation": [
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "澄池町21番22号 サクラテラス101",
+      "addressLocality": "名古屋市中川区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    }
+   ],
+   "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+     "@type": "QuantitativeValue",
+     "unitText": "MONTH",
+     "minValue": 220000,
+     "maxValue": 320000
+    }
+   },
+   "directApply": true
+  }
+ },
+ {
+  "page": "JobVideo.dc.html",
+  "jsonld": {
+   "@context": "https://schema.org/",
+   "@type": "JobPosting",
+   "title": "動画撮影・編集スタッフ(正社員・パート)",
+   "description": "<p>児童発達支援・放課後等デイサービスの広報として、Instagramのリール、採用動画、サイトの短い動画を、企画から撮影、編集まで担当します。子どもと職員の顔は写さずに伝えます。動画編集ソフト(Premiere Pro、Final Cut Pro、DaVinci Resolveなど)での編集経験が必要です(仕事・個人は問いません。福祉の経験も問いません)。正社員は月給220,000〜320,000円、パートは時給1,300円以上(週3日以上、1日5時間以上)。業務委託でのご相談にも応じます。仕事に必要な機材は会社が負担します(何を買うかは相談のうえ会社が決めます)。正社員は、業務の空き時間を自分の制作や仕事に使えます。</p>",
+   "datePosted": "[公開日 例 2026-12-01]",
+   "employmentType": [
+    "FULL_TIME",
+    "PART_TIME"
+   ],
+   "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社桜花(ステップサポート)",
+    "sameAs": "https://try-support.com/"
+   },
+   "jobLocation": [
+    {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "澄池町21番22号 サクラテラス101",
+      "addressLocality": "名古屋市中川区",
+      "addressRegion": "愛知県",
+      "addressCountry": "JP"
+     }
+    }
+   ],
+   "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+     "@type": "QuantitativeValue",
+     "unitText": "MONTH",
+     "minValue": 220000,
+     "maxValue": 320000
+    }
+   },
+   "directApply": true
+  }
+ }
+]
