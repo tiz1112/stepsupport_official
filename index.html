@@ -881,6 +881,17 @@ textarea.hp-in{min-height:168px;resize:vertical}
 .hp h1.hp-h1s.hp-h1s9{font-size:64px;font-size:clamp(36px,4.4cqw,66px)}
 @container (max-width:820px){.hp h1.hp-h1s.hp-h1s9{font-size:clamp(30px,9.2cqw,58px)}}
 
+/* ご利用案内の図: 氷山の「みえている部分/みえていない部分」を左の余白に縦書きで */
+.hp-ice{padding-left:clamp(26px,3cqw,44px)}
+.hp-ice-l{position:absolute;left:0;z-index:2;writing-mode:vertical-rl;font-family:"Zen Kaku Gothic New","Hiragino Sans",sans-serif;font-weight:700;font-size:14px;font-size:clamp(11px,1.05cqw,15px);line-height:1;letter-spacing:.14em;color:var(--sub)}
+.hp-ice-l1{bottom:calc(64% + 10px)}
+.hp-ice-l2{top:calc(36% + 12px);color:var(--ink)}
+.hp-ice-l1::after,.hp-ice-l2::before{content:"";display:inline-block;width:1.5px;height:1.4em;background:currentColor;vertical-align:middle}
+.hp-ice-l1::after{margin-top:.5em}
+.hp-ice-l2::before{margin-bottom:.5em}
+.hp-ice-b{padding:0 6px}
+@container (max-width:820px){.hp .hp-ice-b{font-size:clamp(11px,2.9cqw,16px)}}
+
 .view{display:none}.view.on{display:block}
 .tbar{position:fixed;left:12px;bottom:76px;z-index:60;background:#1C2430;color:#fff;font:700 11px/1 sans-serif;letter-spacing:.08em;padding:7px 10px;border-radius:4px;opacity:.85;pointer-events:none}
 </style>
@@ -1144,8 +1155,9 @@ textarea.hp-in{min-height:168px;resize:vertical}
 <a class="hp-btn hp-btn-line hp-btn-l" href="#families--contact">LINEで相談する</a>
 </div>
 </div>
-<div class="hp-ice" role="img" aria-label="「座っていられない」という見えている行動の下に、感覚、覚醒、姿勢と運動、見る力、注意、気持ち、意欲という7つの理由が隠れていることを表した図">
-<div class="hp-ice-up"><div class="hp-ice-b">座って<br>いられない</div><i class="hp-ball"></i></div>
+<div class="hp-ice" role="img" aria-label="氷山のように、みえている部分はココロとカラダのサインだけで、みえていない部分に、感覚、覚醒、姿勢と運動、見る力、注意、気持ち、意欲という7つの理由が隠れていることを表した図">
+<span class="hp-ice-l hp-ice-l1" aria-hidden="true">みえている部分</span><span class="hp-ice-l hp-ice-l2" aria-hidden="true">みえていない部分</span>
+<div class="hp-ice-up"><div class="hp-ice-b">ココロとカラダの<br>サイン</div><i class="hp-ball"></i></div>
 <div class="hp-ice-dn">
 <div class="hp-rt" style="--n: 1; --h: 58%; --c: var(--aka)"><span>感覚</span></div>
 <div class="hp-rt hp-dk" style="--n: 2; --h: 82%; --c: var(--momo)"><span>覚醒</span></div>
