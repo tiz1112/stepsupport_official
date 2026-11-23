@@ -872,6 +872,11 @@ textarea.hp-in{min-height:168px;resize:vertical}
 .hp .hp-bar.hp-bar2 a.hp-bar-r{background:var(--ao)}
 }
 
+/* 療育の問い: 場所(大きな答え)とすること(この行)を分けて見せる */
+.hp .hp-a2{margin-top:32px;padding-left:18px;border-left:4px solid var(--aka);font-family:"Zen Kaku Gothic New","Hiragino Sans",sans-serif;font-weight:900;font-size:24px;font-size:clamp(19px,2.1cqw,27px);line-height:1.65;color:var(--ink)}
+.hp .hp-a2+.hp-body{margin-top:24px}
+@container (max-width:820px){.hp .hp-a2{margin-top:24px;padding-left:14px;font-size:19px}}
+
 .view{display:none}.view.on{display:block}
 .tbar{position:fixed;left:12px;bottom:76px;z-index:60;background:#1C2430;color:#fff;font:700 11px/1 sans-serif;letter-spacing:.08em;padding:7px 10px;border-radius:4px;opacity:.85;pointer-events:none}
 </style>
@@ -926,10 +931,11 @@ textarea.hp-in{min-height:168px;resize:vertical}
 <section id="home--about" class="hp-sec hp-mist">
 <div class="hp-w">
 <div class="hp-qa">
-<h2 class="hp-q">療育って、<br>何をするところ？</h2>
+<h2 class="hp-q">療育って、<br>何をすること？</h2>
 <div>
-<p class="hp-d hp-a">高すぎる一段を、その子が<span class="hp-nb">のぼれる高さに</span><span class="hp-nb">分けるところです。</span></p>
-<p class="hp-body">「みんなと同じようにやりなさい」と言われても、段が高すぎればのぼれません。療育では、目標をその子に合う小さな段に分けて、一段ずつ「できた」を重ねていきます。</p>
+<p class="hp-d hp-a">高すぎる一段を、その子が<span class="hp-nb">のぼれる高さに</span><span class="hp-nb">分けることです。</span></p>
+<p class="hp-a2">ステップサポートは、<span class="hp-nb">この療育を行う施設です。</span><br>子どもが一段ずつ「できた」を<span class="hp-nb">重ねていく場所です。</span></p>
+<p class="hp-body">「みんなと同じようにやりなさい」と言われても、段が高すぎればのぼれません。療育では、目標をその子に合う小さな段に分けて、一段ずつのぼれるようにします。</p>
 </div>
 </div>
 
