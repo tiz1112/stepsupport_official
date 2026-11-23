@@ -877,6 +877,10 @@ textarea.hp-in{min-height:168px;resize:vertical}
 .hp .hp-a2+.hp-body{margin-top:24px}
 @container (max-width:820px){.hp .hp-a2{margin-top:24px;padding-left:14px;font-size:19px}}
 
+/* ご利用案内の見出し「すべての行動には、」は9文字なので、列からはみ出さない大きさに */
+.hp h1.hp-h1s.hp-h1s9{font-size:64px;font-size:clamp(36px,4.4cqw,66px)}
+@container (max-width:820px){.hp h1.hp-h1s.hp-h1s9{font-size:clamp(30px,9.2cqw,58px)}}
+
 .view{display:none}.view.on{display:block}
 .tbar{position:fixed;left:12px;bottom:76px;z-index:60;background:#1C2430;color:#fff;font:700 11px/1 sans-serif;letter-spacing:.08em;padding:7px 10px;border-radius:4px;opacity:.85;pointer-events:none}
 </style>
@@ -965,7 +969,7 @@ textarea.hp-in{min-height:168px;resize:vertical}
 
 <h3 class="hp-vh">そのために、毎日していること</h3>
 <ul class="hp-verbs">
-<li><h3>理由をさがす</h3><p>行動には理由があります。困りごとの背景を、保育士と作業療法士などの専門職が一緒に見立てます。</p></li>
+<li><h3>理由をさがす</h3><p>行動には理由があります。その子のつまずきの理由を、保育士と作業療法士などの専門職が一緒に見立てます。</p></li>
 <li><h3>段を分ける</h3><p>その子に合う高さと順番を考えて、一人ひとりの支援計画にします。</p></li>
 <li><h3>「できた」を確かめる</h3><p>できたことを本人と一緒に喜び、ご家庭や学校にも伝えます。</p></li>
 </ul>
@@ -1033,7 +1037,7 @@ textarea.hp-in{min-height:168px;resize:vertical}
 <a class="hp-door hp-door-f" href="#families">
 <div class="hp-door-t">
 <h2>お子さんのことで、<br>相談したい方へ。</h2>
-<p>「発達が気になる」「園や学校で困っているようだ」。受給者証がまだの方も、まずはお話を聞かせてください。</p>
+<p>「発達が少し気になる」「園や学校で、本人がつらそうにしている」。受給者証がまだの方も、まずはお話を聞かせてください。</p>
 <span class="hp-btn hp-btn-ink hp-btn-l">ご利用案内を見る</span>
 </div>
 <div class="hp-door-i"><img src="assets/images/25_parent-consult.webp" alt="" loading="lazy"><span class="hp-tag">イメージ</span></div>
@@ -1133,8 +1137,8 @@ textarea.hp-in{min-height:168px;resize:vertical}
 <section class="hp-hero" aria-labelledby="families--hp-h1">
 <div class="hp-hero-grid">
 <div class="hp-hero-copy">
-<h1 id="families--hp-h1" class="hp-h1s">困った行動には、<br>理由があります。</h1>
-<p>座っていられない、切り替えが苦手、ことばがゆっくり。ステップサポートでは、その理由を保育士と作業療法士などの専門職が一緒に見立て、お子さまに合った支援を組み立てます。</p>
+<h1 id="families--hp-h1" class="hp-h1s hp-h1s9">すべての行動には、<br>理由があります。</h1>
+<p>座っていられない、切り替えが苦手、ことばがゆっくり。<br>ステップサポートでは、その理由を保育士と作業療法士などの専門職が一緒に見立て、お子さまに合った支援を組み立てます。</p>
 <div class="hp-cta">
 <a class="hp-btn hp-btn-ink hp-btn-l" href="#families--contact">見学・相談を予約する</a>
 <a class="hp-btn hp-btn-line hp-btn-l" href="#families--contact">LINEで相談する</a>
